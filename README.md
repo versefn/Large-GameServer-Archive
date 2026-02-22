@@ -1,12 +1,11 @@
 # Large-GameServer-Archive
-Large Gameserver archive for your projects have fun skids! 
+Large Gameserver archive for skids!
 
-### Collected-Gameservers-ogfn
-*these are collected gameservers from different archives*
+
 
 ### Disclaimer❗
 
-Small Disclaimer of this repo
+Info about this repo
 
-> - - 1 This repo isnt used for exposing ppl/leaking they're gameserver's
-> - - 2 The GameServers listed here are already open sourrrrrrced
+> -  1 This repo isnt used for exposing leaking gameserver's
+> -  2 The GameServers listed here are already open source
